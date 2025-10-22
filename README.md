@@ -4,10 +4,10 @@ Front-end Developer | Vue.js Enthusiast
 
 ---
 
-💻 **Passion:** Building modern, user-centered web applications  and management
+💻 **Passion:** Building modern, user-centered web applications and management  
 🛠️ **Experience:** 3+ years of hands-on development in frontend with a strong focus on Vue.js  
-🚀 **Main Stack:** Vue.js | Nuxt.js | TypeScript 
-🎯 **Currently Exploring:** Advanced UX Design , React.js , ML
+🚀 **Main Stack:** Vue.js | Nuxt.js | TypeScript  
+🎯 **Currently Exploring:** Advanced UX Design, React.js, and Machine Learning  
 
 ---
 
