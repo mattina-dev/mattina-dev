@@ -1,13 +1,13 @@
 # Hi, I'm Mattina 👩‍💻
 
-Front-end Developer | Vue.js Enthusiast
+Front-end Developer 
 
 ---
 
 💻 **Passion:** Building modern, user-centered web applications and management  
-🛠️ **Experience:** 3+ years of hands-on development in frontend with a strong focus on Vue.js  
-🚀 **Main Stack:** Vue.js | Nuxt.js | TypeScript  
-🎯 **Currently Exploring:** Advanced UX Design, React.js, and Machine Learning  
+🛠️ **Experience:** 4+ years of hands-on development in frontend with a strong focus on Vue.js  
+🚀 **Main Stack:** Vue.js | Nuxt.js | TypeScript | React.js
+🎯 **Currently Exploring:** Advanced UX Design, and Machine Learning  
 
 ---
 
@@ -25,9 +25,7 @@ Front-end Developer | Vue.js Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="50" alt="Vuetify" />
   <img src="https://pinia.vuejs.org/logo.svg" height="50" alt="Pinia" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://camo.githubusercontent.com/61af82dc9fac0c64e90f6bb850b95e9c1f67abad11ed18fef45e8887b3f412e4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c6465267065726c696e653d3130" alt="Skills Icons" width="170" />
-</p>
-
+ 
 
 ---
 
