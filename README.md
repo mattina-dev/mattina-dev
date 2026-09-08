@@ -58,32 +58,6 @@ I care about building interfaces that are not only visually polished, but also m
 
 I'm currently building and maintaining **[matiQ-ui](https://github.com/mattina-dev/matiq-ui)** — a reusable UI component system for modern React applications.
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mattina-dev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Mattina's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattina-dev&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattina-dev&hide_border=true" alt="GitHub streak" />
-</p>
-
-> Replace `mattina-dev` above with your real GitHub username so the stats cards pull your actual data.
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" alt="Email" /></a>
-</p>
-
-> Swap in your real LinkedIn, portfolio, and email links above.
-
----
 
 <p align="center"><i>"Simplicity is the soul of efficiency." — Austin Freeman</i></p>
